@@ -150,7 +150,7 @@ html {
 
     --bg-color: #e2e3f1;
 
-    --bg-fon-about: url(./images/background/Background-about-laptop-light.png);
+    --bg-fon-about: url(./images/background/Background-about-laptop-light.webp);
 
     --bg-text-about: linear-gradient(90deg, #e2e3f1bd, #e2e3f1bd, #e2e3f1, #e2e3f1, #e2e3f1, #e2e3f1bd, #e2e3f1bd);
 
@@ -216,7 +216,7 @@ html {
     --bg-header: #010318;
     --bg-footer: #010318;
 
-    --bg-fon-about: url(./images/background/Background-about-laptop-dark.png);
+    --bg-fon-about: url(./images/background/Background-about-laptop-dark.webp);
     --bg-text-about: linear-gradient(90deg, #010318, #010318, #13162dbd, #13162dbd, #13162dbd, #010318, #010318);
 
 
